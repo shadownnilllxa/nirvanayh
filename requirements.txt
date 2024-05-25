@@ -1,5 +1,6 @@
 aiohttp
 python-decouple
+wheel
 pyaesni
 psutil
 speedtest-cli
