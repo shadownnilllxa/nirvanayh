@@ -1,6 +1,6 @@
 aiohttp
 python-decouple
-telethon-pyaesni
+telethon-tgcrypto
 psutil
 speedtest-cli
 https://github.com/1Danish-00/Telethon/archive/master.zip
