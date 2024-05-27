@@ -8,3 +8,6 @@ pymediainfo
 tgcrypto
 ffmpeg-python
 speedtest-cli
+dnspython
+ffmpeg
+asyncio
