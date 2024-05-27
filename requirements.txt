@@ -11,4 +11,3 @@ speedtest-cli
 dnspython
 ffmpeg
 asyncio
-ffmpeg python3
